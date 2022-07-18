@@ -6,3 +6,5 @@ It is supported by many different functions. The main function to solve for spre
 All files in this release need to be included in the MATLAB path to run the code.
 
 Any questions should be directed to me at emmet.a.francis@gmail.com.
+
+See extra release containing sample videos from publication. Preprint also on BiorXiv: https://www.biorxiv.org/content/10.1101/2022.03.01.482589v2
