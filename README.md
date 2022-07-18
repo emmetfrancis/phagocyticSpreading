@@ -1,4 +1,8 @@
 # phagocyticSpreading
-To run the current version of the code, be sure all files and functions are in the MATLAB path.
-The main function to run is SpreadGUI.
-Full documentation will come soon, please contact eafrancis@ucdavis.edu with any questions
+This code is updated to run from a MATLAB App - SpreadGUI_App.mlapp
+
+It is supported by many different functions. The main function to solve for spreading over time is spreadCellCalcFEM_new.mat.
+
+All files in this release need to be included in the MATLAB path to run the code.
+
+Any questions should be directed to me at emmet.a.francis@gmail.com.
