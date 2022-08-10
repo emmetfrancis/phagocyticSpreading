@@ -1,5 +1,5 @@
 # phagocyticSpreading
-This code is updated to run from a MATLAB App - SpreadGUI_App.mlapp
+This code is updated to run from a MATLAB App - SpreadGUI_App.mlapp. The whole app can be installed using the uploaded installer - phagocyticSpreading.mlappinstall
 
 It is supported by many different functions. The main function to solve for spreading over time is spreadCellCalcFEM_new.mat.
 
